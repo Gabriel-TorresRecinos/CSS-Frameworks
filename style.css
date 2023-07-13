@@ -1,0 +1,19 @@
+.layer{
+  width:100%;
+  height:100%;
+  background: transparent;
+  position: absolute;
+  transition: 0.5s;
+  top:0;
+  left:0;
+
+}
+
+.layer:hover{
+  background: palegoldenrod;
+  opacity: 50%;
+  transition:0.5s;
+
+}
+
+
